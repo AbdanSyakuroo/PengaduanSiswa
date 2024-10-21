@@ -3,7 +3,7 @@
 - Instal Laragon atau XAMPP
 - Saat anda menggunakan Laragon maka simpan file kedalam folder
 ```
-  laragon\www
+laragon\www
 ```
 - Saat anda menggunakan XAMPP maka simpan file kedalam folder
 ```
