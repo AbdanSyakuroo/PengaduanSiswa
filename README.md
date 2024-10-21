@@ -10,7 +10,7 @@ laragon\www
 xampp\htdocs
 ```
 - File yang disediakan disini buat menjadi satu folder lalu masukkan ke folder yang diperintahkan sebelumnya
-# Penggunaan File (Visual Studio Code)
+# Penggunaan Kode pada software code editor (Visual Studio Code)
 - Lalu anda dapat mengetikkan kode pada terminal visual studio code untuk menyimpan database
 ```
 php artisan migrate
