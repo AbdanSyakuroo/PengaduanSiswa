@@ -19,7 +19,7 @@ php artisan migrate
 ```
 npm install
 ```
-- Anda dapat mengantisipasi jika ada yang belum diinstall dengan menuliskan kode pada terminal
+- Untuk menjalankan dan menampilkan hasil maka kita perlu menuliskan kode pada terminal
 ```
 npm run dev
 php artisan serve
