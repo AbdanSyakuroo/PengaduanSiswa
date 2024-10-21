@@ -1,6 +1,6 @@
 # Instalasi
 - Download / Clone Source Code di Github
-- Instal Laragon atau XAMPP
+- Instal `Laragon` atau `XAMPP`
 - Saat anda menggunakan Laragon maka simpan file kedalam folder
 ```
 laragon\www
